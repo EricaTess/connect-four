@@ -206,7 +206,6 @@ class Game{
 
         console.log('THIS IS THE WINNING COLOR' + winning_color);
 
-        // console.log('SHIT SHIT SHIT');
     }
     toString(){
       return this.board;
